@@ -34,7 +34,7 @@
             "max_hardware_version": [2, 0, 1]
         },
         {
-            "software_name": "DiğerBACIN",
+            "software_name": "DIGER_BACIN",
             "software_version": [1, 6, 6],
             "software_path": "https://github.com/vovagorodok/ArduinoBleOTA/releases/download/1.0.2/firmware_esp32_other_v1.6.6.bin",
             "min_hardware_version": [1, 0, 0],
